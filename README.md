@@ -4,9 +4,9 @@
 
 => Interests: 💻 | 🎨 | 🎹 | 🎮
 
-=> Currently working on preparing [courses about testing react apps](https://github.com/Arthur-Conan-Dog/react-testing-library-course).
+=> Currently working on preparing [courses about testing react apps](https://github.com/Arthur-Conan-Dog/react-testing-library-course)
 
-=> Currently re-learning algorithms
+=> Currently learning Swift & re-learning algorithms
 
 **Languages and Tools**
 
