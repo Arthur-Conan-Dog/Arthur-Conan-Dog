@@ -6,7 +6,7 @@
 
 => Currently working on preparing [courses about testing react apps](https://github.com/Arthur-Conan-Dog/react-testing-library-course)
 
-=> Currently learning Swift & re-learning algorithms
+=> Currently re-learning algorithms
 
 **Languages and Tools**
 
