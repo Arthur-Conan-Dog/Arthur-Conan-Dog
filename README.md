@@ -1,13 +1,27 @@
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=36BCF7&vCenter=true&width=600&lines=Interests%3A+%F0%9F%92%BB+%7C+%F0%9F%8E%A8+%7C+%F0%9F%8E%B9+%7C+%F0%9F%8E%AE;Currently+playing+with+OpenClaw+bot+%26+Opus;Talking+to+LLMs+in+Chinese+%26+English" alt="typing" />
+
+<p><b>LLM</b></p>
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+
+<p><b>Programming</b></p>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+
+</td>
+<td width="40%" align="center" valign="top">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arthur-conan-dog&show_icons=true&count_private=true&theme=tokyonight&hide=contribs&hide_title=true" alt="Shaw's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arthur-conan-dog&show_icons=true&count_private=true&theme=tokyonight&hide=contribs&hide_title=true&card_width=320" alt="GitHub stats" />
 </a>
 
-=> Interests: 💻 | 🎨 | 🎹 | 🎮
-
-=> Currently re-learning & practising algorithms
-
-**Languages and Tools**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+</td>
+</tr>
+</table>
